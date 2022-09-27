@@ -1,7 +1,7 @@
 import random
 import string
 import time
-#https://github.com/Armandov/ahx.git
+#https://github.com/Armandov/ahx
 from palabras import palabras
 from ahorcado_diagramas import vidas_diccionario_visual
 arc = '''
